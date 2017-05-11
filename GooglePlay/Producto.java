@@ -5,7 +5,7 @@
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class Producto
+public  abstract class Producto extends GooglePlay
 {
     // instance variables - replace the example below with your own
         private String titulo;
@@ -22,5 +22,6 @@ public class Producto
         return titulo;
     }
 
+    public abstract  double getPrecio();
    
 }

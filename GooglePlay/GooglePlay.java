@@ -38,4 +38,15 @@ public class GooglePlay
 
         return size;
     }
+
+    public double comprar(String email, String titulo){
+        
+        
+        
+        for (int contador = 0; contador < usuarios.size(); contador++)
+        {
+            
+        }
+
+        
 }

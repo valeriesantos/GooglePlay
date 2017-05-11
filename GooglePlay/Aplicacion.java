@@ -10,6 +10,7 @@ public class Aplicacion extends Producto
     // instance variables - replace the example below with your own
     private double tamannioApp;
     private Categoria categorias;
+
     /**
      * Constructor for objects of class Aplicacion
      */
@@ -46,5 +47,12 @@ public class Aplicacion extends Producto
             break;
         }
         return categoria;
+    }
+    
+    public double getPrecioCompra(){
+        double precioApp = 0.99;
+        if(
+        
+        
     }
 }

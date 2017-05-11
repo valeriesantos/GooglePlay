@@ -27,5 +27,4 @@ public class Usuario
         return email;
     }
 
-    
 }

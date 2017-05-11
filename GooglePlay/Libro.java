@@ -11,6 +11,7 @@ public class Libro extends ProductoMultimedia
 
     private int numPaginas;
     private boolean libroFiccion;
+    
 
     /**
      * Constructor for objects of class Libro
@@ -36,5 +37,12 @@ public class Libro extends ProductoMultimedia
         return libroFiccion;
     }
 
+    public double getPrecio(){
+        
+        double precioLibro = 0;
+        
+        precioLibro = (numPaginas / 100) * (getAno() - 2010);
+         return precioLibro;
+    }
 }
 
