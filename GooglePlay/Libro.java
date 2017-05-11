@@ -37,6 +37,7 @@ public class Libro extends ProductoMultimedia
         return libroFiccion;
     }
 
+    @Override
     public double getPrecio(){
         
         double precioLibro = 0;

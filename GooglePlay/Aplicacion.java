@@ -49,10 +49,10 @@ public class Aplicacion extends Producto
         return categoria;
     }
     
-    public double getPrecioCompra(){
+    @Override
+    public double getPrecio(){
         double precioApp = 0.99;
-        if(
         
-        
+        return precioApp;
     }
 }

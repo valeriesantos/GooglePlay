@@ -40,13 +40,9 @@ public class GooglePlay
     }
 
     public double comprar(String email, String titulo){
+        double precio = 0;
+        return precio;
         
-        
-        
-        for (int contador = 0; contador < usuarios.size(); contador++)
-        {
-            
-        }
 
-        
+    }
 }

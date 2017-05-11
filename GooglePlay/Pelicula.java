@@ -39,7 +39,8 @@ public class Pelicula extends ProductoMultimedia
         return calidadFinal;
     }
 
-    public double getPrecioCompra(){
+    @Override
+    public double getPrecio(){
         double precio = 0;
 
         if(calidad ==1080 ){
