@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=animal
+comment0.target=Granja(Animal)
+comment1.params=animal
+comment1.target=void\ alimentarAves(Animal)
+comment2.params=animal
+comment2.target=void\ alimentarMamiferos(Animal)
+comment3.params=animal
+comment3.target=int\ getPeso(Animal)
+comment4.params=animal
+comment4.target=int\ getPuntosDeVida(Animal)
+numComments=5

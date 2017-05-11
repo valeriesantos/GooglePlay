@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pollos()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Pollos\n
+comment1.params=
+comment1.target=void\ alimentar()
+comment2.params=
+comment2.target=void\ vacunar()
+comment3.params=
+comment3.target=void\ hacerEmitirSonidoCaracter\u00EDstico()
+comment4.params=
+comment4.target=int\ getPeso()
+comment5.params=
+comment5.target=int\ getPuntosDeVida()
+numComments=6
